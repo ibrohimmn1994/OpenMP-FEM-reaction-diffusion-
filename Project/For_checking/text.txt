@@ -1,0 +1,2 @@
+To show that the code works properly. I wrote an equivalent Octave-code. The code can be opened but not run in matlab.
+Assitionaly a figure of how the solution should look like.
